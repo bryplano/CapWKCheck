@@ -1,0 +1,7 @@
+{
+  "name": "CiscoCapApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
